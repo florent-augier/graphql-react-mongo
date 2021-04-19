@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'B612Mono-700';
+  src:url('./fonts/B612Mono-700.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'B612Mono-700italic';
+  src:url('./fonts/B612Mono-700italic.ttf') format('truetype');
+}@font-face {
+  font-family: 'B612Mono-regular';
+  src:url('./fonts/B612Mono-regular.ttf') format('truetype');
+}@font-face {
+  font-family: 'B612Mono-italic';
+  src:url('./fonts/B612Mono-italic.ttf') format('truetype');
+}
+
+
+.App {
+  background: linear-gradient(#b4753b, #b4573b, #b43b3d);
+}
+
+
