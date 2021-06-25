@@ -29,3 +29,25 @@ In first, you must be a little bit confortable with **ReactJS**, **ExpressJS**, 
 ```
 
 2. In the second terminal
+
+   * From the root directory run: **```cd reactapp && npm install```**
+
+3. You can run
+
+   * From the root directory, in first, run: **```npm start```**
+
+   * From the reactapp directory, run: **```npm start```**
+
+4. Terminal prompt "Would you like to run the app on another port instead? › (Y/n)"
+   
+   Click enter button or "y" button to say "yes".
+   
+You see result?
+
+You just have to create post with title and body!
+
+
+
+
+
+
