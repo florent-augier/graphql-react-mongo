@@ -42,7 +42,7 @@ In first, you must be a little bit confortable with **ReactJS**, **ExpressJS**, 
    
    Click enter button or "y" button to say "yes".
    
-You see result?
+Do you see the result?
 
 You just have to create post with title and body!
 
